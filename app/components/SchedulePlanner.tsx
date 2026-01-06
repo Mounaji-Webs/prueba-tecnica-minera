@@ -102,7 +102,7 @@ export default function SchedulePlanner(): React.JSX.Element {
     setInductionDays(preset.inductionDays);
     setTotalDrillingDays(preset.totalDrillingDays);
     setSchedule(null);
-    setError('');
+    setError(''); 
     setSuggestions([]);
     setSelectedPreset(preset.name);
   };
