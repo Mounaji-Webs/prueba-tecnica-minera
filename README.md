@@ -8,11 +8,11 @@ Portfolio: [lucilo-portfolio.vercel.app](https://lucilo-portfolio.vercel.app/)
 
 ## Descripción
 
-Sistema automatizado para planificar turnos de 3 supervisores de perforación en operaciones mineras. Desarrollado con asistencia de IA (GitHub Copilot).
+Sistema automatizado para planificar turnos de 3 supervisores de perforación en operaciones mineras. Desarrollado con asistencia de IA 
 
 ### Desafío de Requisitos Conflictivos
 
-Durante el desarrollo se identificó que algunos requisitos eran mutuamente excluyentes en ciertos regímenes (ej: 7x7, 10x5). Mantener **siempre exactamente 2 supervisores perforando** es matemáticamente imposible en configuraciones con:
+Durante el desarrollo se identificó que algunos requisitos eran mutuamente excluyentes en ciertos regímenes. Mantener **todas las reglas optimas** es matemáticamente imposible en configuraciones con:
 - Ciclos muy cortos
 - Días de inducción largos
 - Transiciones entre supervisores
