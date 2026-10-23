@@ -1,0 +1,8 @@
+{
+  "name": "Prueba técnica minera",
+  "short": "Prueba técnica minera",
+  "tagline": "prueba técnica: planificador de turnos mineros",
+  "kind": "app",
+  "ambito": "satelite",
+  "monogram": "PM"
+}
